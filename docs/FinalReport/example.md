@@ -1,4 +1,5 @@
 # 2. Example
+* My Code：[Github](https://github.com/Shihyin98/se109a/tree/master/src/06-finalReport_algorithm)
 * 參考文檔：[JavaScript AVL Tree_Code Review_Evan Bechtol_2019](https://codereview.stackexchange.com/questions/236660/javascript-avl-tree)
 * 參考程式碼：[evanbechtol/javascript-algorithms_GitHub](https://github.com/evanbechtol/javascript-algorithms)
 

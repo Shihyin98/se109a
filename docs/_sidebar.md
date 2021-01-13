@@ -6,4 +6,4 @@
     * [3. 程式碼說明](FinalReport/explanation)
     * [4. 分析與小結](FinalReport/analysis&summary)
 
-* [Midterm Project_SoftwareEngineering](zh-cn/guide)
+* [Midterm Project_SoftwareEngineering](MidtermReport)
