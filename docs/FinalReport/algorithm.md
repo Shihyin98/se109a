@@ -1,4 +1,4 @@
-# AVL-Tree
+# AVL-Tree Algorithm
 
 > 2021.01.13 (Tru.)
 
@@ -13,5 +13,12 @@
 2. 範例執行
 3. 程式碼說明
 4. 分析與小結
+
+### 概念圖：
+* Insert the number: 10 → 20 → 30 → 40 → 50 → 15 → 12
+![avl-tree-test](img/avl-tree-test.gif)
+
+[[1] 資料結構與演算法：AVL Tree_Joseph's Blog_2019](https://josephjsf2.github.io/data/structure/and/algorithm/2019/06/22/avl-tree.html)<br>
+[[2] AVLtree 的圖形化工具](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)<br>
 
 
