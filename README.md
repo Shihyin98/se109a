@@ -12,4 +12,4 @@
 * 修課文檔：[My Reports](https://github.com/Shihyin98/se109a/blob/master/docs/index.html)
   * [Midterm Report: AVL-Tree Algorithm](https://github.com/Shihyin98/se109a/blob/master/docs/FinalReport/algorithm.md)
   * [Final Report: Blog Website](https://github.com/syuan0327/se)
-  * [Run the example on class](https://github.com/Shihyin98/se109a/tree/master/sr
+  * [Run the example on class](https://github.com/Shihyin98/se109a/tree/master/src)
