@@ -4,7 +4,7 @@
 
 * 最佳路徑：start = (0, 0)；end = (7, 6)。
 ![code-result](img/spyder.png)
-![a-star](img/a-star.gif)
+
 
 ### Reference
 [[1] A* Search Algorithm in JavaScript](https://briangrinstead.com/blog/astar-search-algorithm-in-javascript/)<br>
