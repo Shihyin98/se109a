@@ -4,7 +4,6 @@
 
 * 最佳路徑：start = (0, 0)；end = (7, 6)。
 ![code-result](img/spyder.png)
-![test-result](img/test-result.png)
 ![a-star](img/a-star.gif)
 
 ### Reference

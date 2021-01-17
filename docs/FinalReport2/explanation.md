@@ -1,12 +1,12 @@
 # 3. Code Explanation
 
-* AVL 時間複雜度 **${\displaystyle O(\log {n})}O(\log{n})$**：尋找、插入和刪除在平均和最壞情況下的時間複雜度都是${\displaystyle O(\log {n})}O(\log{n})$ 。
-
-AVL's big-O： ![big-o](img/big-o.png)
+* $𝑓(𝑛) = 𝑔(𝑛) + ℎ(𝑛)$
+    * 𝑛 ：目前節點
+    * 𝑔(𝑛) ：從起始點到目前節點實際移動的距離
+    * h(𝑛) ：預測目前節點到結束點的距離 (此為 A* 演算法的主要評價公式)
+    * 𝑓(𝑛) ：目前節點的評價分數總和
 
 
 ### Reference
-[[1] AVL樹_Wiki](https://zh.wikipedia.org/wiki/AVL树)<br>
-[[2] [Day 2] 演算法複雜度分析──時間複雜度(Time Complexity)、空間複雜度(Space Complexity)_iThome_fion_2019](https://ithelp.ithome.com.tw/articles/10216436)<br>
-[[3] 初學者學演算法｜從時間複雜度認識常見演算法_Medium_Cheng-Wei Hu | 胡程維_2017](https://medium.com/appworks-school/初學者學演算法-從時間複雜度認識常見演算法-一-b46fece65ba5)
+[[1] A*搜尋演算法_wiki](https://zh.wikipedia.org/wiki/A*搜尋演算法)<br>
 
