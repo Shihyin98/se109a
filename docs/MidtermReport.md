@@ -30,4 +30,4 @@
 ## 題目選定：網誌
 * [期中報告&程式碼](https://github.com/syuan0327/se)
 * 專案合作方式：分工
-
+* 負責部分：[新增貼文](https://github.com/syuan0327/se/blob/master/public/new.js)
